@@ -1,0 +1,132 @@
+.vien{
+	width: 1000px;
+	height: 800px;
+	margin: auto;
+}
+.vien .phongchu{
+	color: blueviolet;
+}
+.vien1{
+	width: 100%;
+	height: 45%;
+	float: left;
+}
+.vien1 .album1{
+	float: left;
+}
+.vien1 .album1 img{
+	width: 180px;
+    height: 180px;
+    float: left;
+    margin-bottom: 20px;
+}
+.vien1 .album1 .title1{
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+}
+.vien1 .album2{
+	float: left;
+}
+.vien1 .album2 img{
+	width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+.album2 .title2{
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+    margin-left: 20px;
+    width: 180px;
+
+}
+.vien1 .album3{
+	float: left;
+	margin-left: 20px;
+}
+.album3 img{
+	height: 180px;
+    width: 180px;
+}
+.album3 .title3{
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+}
+.vien1 .album4{
+	float: left;
+}
+.vien1 .album4 img{
+	width: 180px;
+	height: 180px;
+	margin-left: 20px;
+}
+.album4 .title4 {
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+    margin-left: 20px;
+}
+.vien2{
+	width: 100%;
+	height: 45%;
+	float: left;
+}
+.vien2 .album5{
+	float: left;
+}
+.vien2 .album5 img{
+	width: 180px;
+    height: 180px;
+    float: left;
+    margin-bottom: 20px;
+}
+.vien2 .title5{
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+}
+.vien2 .album6{
+	float: left;
+}
+.vien2 .album6 img{
+	width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+.title6{
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+    margin-left: 20px;
+}
+.vien2 .album7{
+	float: left;
+	margin-left: 20px;
+}
+.album7 img{
+	width: 180px;
+    height: 180px;
+    float: left;
+    margin-bottom: 20px;
+}
+.title7{
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+}
+.vien2 .album8{
+	float: left;
+}
+.album8 img{
+	width: 180px;
+	height: 180px;
+	margin-left: 20px;
+}
+.title8{
+	font-weight: bold;
+    margin-top: 20px;
+    display: block;
+    margin-left: 20px;
+}

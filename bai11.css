@@ -1,0 +1,76 @@
+
+.vien{
+	width: 800px;
+	margin: auto;
+	border: 1px;
+}
+.vien .hinh1 img{
+	width: 430px;
+	float:left;
+}
+.vien .anh b{
+	width: 270px;
+	text-align: right;
+}
+.vien .anh .time{
+	font-size: 12px;
+	text-transform: none;
+}
+.vien .anh .mt10{
+	margin-top: 10px;
+	font-size: 16px;
+	
+}
+.title {
+	text-decoration: underline;
+	font-style: italic;
+	font-size: 12px;
+	margin-top: 15px;
+}
+.hinh2{
+	width: 100%;
+	margin-top: 10px;
+	height: auto;
+}
+.hinh2 .hinh21{
+	width: 50%;
+	margin-top: 15px;
+	float:left;
+}
+.hinh2 .hinh21 img{
+	width: 100%;
+	height: 231px;
+}
+.hinh2 .hinh21 .title1{
+	font-weight: bold;
+	font-size: 15px;
+	text-transform: none;
+	text-decoration: none;
+}
+.time1{
+	font-size: 12px;
+	text-transform: none;
+	margin-top: 15px;
+}
+.hinh2 .hinh22{
+	width: 50%;
+	height: auto;
+	margin-top: 15px;
+	float:left;
+}
+.hinh2 .hinh22 img{
+	width: 100%;
+	height: 231px;
+	margin-left: 20px;
+}
+.title2{
+	margin-left: 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.time2{
+	font-size: 13px;
+	text-transform: none;
+	margin-top: 15px;
+	margin-left: 20px;
+}
