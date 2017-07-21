@@ -1,0 +1,58 @@
+article.tinnho{
+	width: 325px;
+	height: 265px;
+	margin-right: 22px;
+	border: 1px solid #E9E9E9;
+	float: left;
+}
+article.tinnho img{
+	width: 325px;
+	padding-bottom: 14px;
+}
+article.tinnho a.tdtinnho{
+	font-weight: bold;
+	text-decoration: none;
+	font-family: tahoma;
+	font-size: 13px;
+	color: #414141;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.thoigian{
+	font-family: tahoma;
+	font-size: 11px;
+	color:gray;
+	padding-left: 10px;
+}
+/*css cho div tinto*/
+article.tinto{
+	width: 650px;
+	height: auto;
+	margin-bottom: 22px;
+}
+article.tinto img{
+	float: left;
+	width: 441px;
+	margin-right: 22px;
+}
+article.phai{
+	float: right;
+}
+.tdto{
+	text-decoration: none;
+    font-family: tahoma;
+    font-size: 14px;
+    color: #414141;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+}
+.tentg{
+	text-align: center;
+	display: block;
+	font-family: tahoma;
+	font-size: 11px;
+	color: #414141;
+	font-style: italic;
+}

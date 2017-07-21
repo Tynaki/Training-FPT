@@ -1,0 +1,35 @@
+div img{
+	float: right;
+}
+section{
+	width: 334px;
+	height: 312px;
+	margin: auto;
+}
+article{
+	width: 152px;
+	height: 156px;
+	margin-right: 15px;
+
+	float: left;
+
+}
+div p {
+	font-size: 10px;
+}
+img{
+	width: 152px;
+}
+a {
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration: none;
+    margin-right: 15px;
+    line-height: 22px; /*dãn dòng*/
+    display: block;
+    color: #555;
+}
+a:hover {
+	color: orange;
+}
